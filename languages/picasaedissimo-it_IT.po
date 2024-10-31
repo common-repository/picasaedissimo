@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Christian Wolf
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Picasaeditissimo in Italiano\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/picasaedissimo\n"
+"POT-Creation-Date: 2008-05-21 17:09+0000\n"
+"PO-Revision-Date: 2008-05-26 17:41+0100\n"
+"Last-Translator: Gianni Diurno (aka gidibao) <gidibao@gmail.com>\n"
+"Language-Team: gidibao.net <gidibao@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: picasaedissimo.php:84
+msgid "Picasa RSS feed:"
+msgstr "Feed RSS di Picasa:"
+
+#: picasaedissimo.php:88
+msgid "Widget Title (optional):"
+msgstr "Titolo del widget (facoltativo):"
+
+#: picasaedissimo.php:92
+msgid "Number of images to display:"
+msgstr "Numero delle immagini da mostrare:"
+
+#: picasaedissimo.php:96
+msgid "Randomize Images:"
+msgstr "Rendi casuali le immagini:"
+
+#: picasaedissimo.php:30
+msgid "feed error:"
+msgstr "errore del feed:"
+
+#: picasaedissimo.php:42
+msgid "no images found in feed."
+msgstr "Non sono state trovate delle immagini nel feed."
+
+#. Plugin Name of an extension
+msgid "Picasaedissimo"
+msgstr "Picasaedissimo"
+
+#. Plugin URI of an extension
+msgid "http://www.gofloripa.net/picasedissimo/"
+msgstr "http://www.gofloripa.net/picasedissimo/"
+
+#. Description of an extension
+msgid "Displays pictures from a Picasa RSS feed."
+msgstr "Mostra le immagini dal feed RSS di Picasa."
+
+#. Author of an extension
+msgid "Christian Wolf"
+msgstr "Christian Wolf"
+
+#. Author URI of an extension
+msgid "http://www.gofloripa.net/"
+msgstr "http://www.gofloripa.net/"
+
